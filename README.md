@@ -6,7 +6,7 @@
 ---
 
 ## 🎯 Objective
-熱衷於雲端架構與自動化部署的 DevOps 初學者，具備 AWS 二層架構實作經驗，熟悉 EC2、S3、RDS 服務，並具備基本的 Kubernetes 操作能力。  
+熱衷雲端架構與自動化部署的 DevOps 初學者，具備 AWS 二層架構實作經驗，熟悉 EC2、S3、RDS 服務，並具備基本的 Kubernetes 操作能力。  
 目前正在準備 AWS Certified Solutions Architect – Associate（SAA）證照，期望未來能成為一位專業的 DevOps / Cloud Engineer，參與 CI/CD 流程建置、雲端架構優化與平台穩定性提升等工作，並持續精進雲端與系統管理相關技能。
 
 ---

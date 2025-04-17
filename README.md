@@ -13,11 +13,18 @@
 
 ## 💼 Projects
 
-### 🖥 AWS 2-Tier Web Architecture Project
-- 架設 Web + DB 的二層架構：前端部署於 EC2，資料庫使用 RDS（MySQL）
-- 使用 S3 儲存靜態資源，並整合 IAM 權限管理進行安全控管
-- 建立簡易監控與備份策略，提升系統穩定性
-- 透過 Shell Script 及 AWS CLI 自動化部分部署流程
+### 🌐 AWS WordPress Web Architecture Project
+
+使用 AWS 架設 WordPress 雙層架構，實作基本雲端部署流程與網路隔離。
+
+- 使用自訂 VPC 劃分 Public / Private Subnet
+- EC2（Public Subnet）安裝 WordPress，連接 RDS（Private Subnet）
+- 設定 Security Groups 控管 HTTP / SSH / DB 流量
+- 採用 t3.micro（Free Tier）、部署於 ap-east-1a 區域
+
+🔧 技術：`VPC`、`EC2`、`RDS`、`Security Group`、`Linux CLI`  
+🚀 擴充規劃：多 AZ、ALB、Auto Scaling、Terraform（IaC）  
+📎 Demo：WordPress 管理頁 [http://18.162.194.92/wp-admin/](http://18.162.194.92/wp-admin/)（_Demo 帳密可提供_）
 
 ---
 

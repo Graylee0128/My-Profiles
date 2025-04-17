@@ -1,7 +1,7 @@
 # My-Profiles
 
 # 李欣翰
-[Email](mailto:xinhanli.job@gmail.com) | [GitHub](https://github.com/Graylee0128/My-Profiles) | 台灣，新北
+[Email](xinhanli.job@gmail.com) | [GitHub](https://github.com/Graylee0128/My-Profiles) | 台灣，新北
 
 ---
 

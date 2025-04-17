@@ -13,7 +13,7 @@
 
 ## 💼 Projects
 
-### 🌐 AWS WordPress Web Architecture Project
+### 🌐 [AWS WordPress Web Architecture Project](https://github.com/Graylee0128/aws-web-project)
 
 使用 AWS 架設 WordPress 雙層架構，實作基本雲端部署流程與網路隔離。
 
